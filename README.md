@@ -1,2 +1,2 @@
 # web_scraping
-Repositor for my studying on web scraping
+Repository for my studying on web scraping
